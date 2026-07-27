@@ -20,9 +20,8 @@ USAGES:
 
 import argparse
 from urllib.parse import urlparse
-from huggingface_hub import dataset_info, hf_hub_download
-import re
-import unicodedata
+from huggingface_hub import dataset_info
+from language_info import get_languages
 from datasets import load_dataset
 
 
@@ -69,7 +68,7 @@ def main():
         ... # log dataset in simple SQL database
         print("dataset logged in database")
         return
-    languages = get_languages(repo)
+    languages = get_languages.get_language_tag(repo)
 
 
 

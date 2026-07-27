@@ -1,0 +1,14 @@
+
+
+
+TIER_ONE = {
+    ... # INSERT TIER ONE LANGUAGES HERE, BUILD FROM WIKIDATA
+}
+
+TIER_TWO = {
+    ...
+}
+
+TIER_THREE = {
+    ...
+}
