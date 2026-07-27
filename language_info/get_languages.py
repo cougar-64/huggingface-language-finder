@@ -16,7 +16,7 @@ def normalize(text: str) -> str:
 
 def get_readme_text(repo: str):
     try:
-        readme_path = hf_hub_download(repo_id="repo_id", filename="README", repo_type="dataset")
+        readme_path = hf_hub_download(repo_id=repo, filename="README.md", repo_type="dataset")
         with open(readme_path, 'r') as f:
             return f.read()
     except Exception:
@@ -34,30 +34,36 @@ def get_language_tag(info):
 
 
 
-def match_languages(iso_code, all_names, readme, repo_name, tagged_langs, eng_name) -> dict: # searches different parts of the hf datasets and looks for language matches
-    ret_dict = {} # eng_name: specifically how it was found (helpful for scraping the dataset later)
+def match_languages(iso_code, all_names, readme, repo_name, tagged_langs) -> set: # searches different parts of the hf datasets and looks for language matches
+    hits = set() # the variations of the name that was hit (useful for knowing which language names to scrape later)
     if normalize(iso_code) in tagged_langs:
-        ret_dict[eng_name] = iso_code
+        hits.add(iso_code)
     for n in all_names:
         if normalize(n) in tagged_langs:
-            ret_dict[eng_name] = n
-            break
+            hits.add(n)
+        found_in_repo_name = re.search(rf"\b{re.escape(normalize(n))}\b", repo_name)
+        if found_in_repo_name:
+            hits.add(n)
+        found_in_readme = re.search(rf"\b{re.escape(normalize(n))}\b", readme)
+        if found_in_readme:
+            hits.add(n)
 
-    found_in_repo_name = any(
-        re.search(rf"\b{re.escape(normalize()")
-    )
-
-
-
-def match_metadata(repo_id, info) -> list:
-    result_tier_one = []
-    result_tier_two = []
-    result_tier_three = []
+    return hits
 
 
+
+def match_metadata(repo_id, info) -> dict:
     readme_text = normalize(get_readme_text(repo_id))
     repo_name_text = normalize(repo_id)
     tagged_langs = [normalize(t) for t in get_language_tag(info)]
 
-    for iso_code, names in TIER_ONE.itmes():
-        all_names = names["english_name"] + names["native_names"] # multiple variations for one language, multiple languages not in all_names
+    tier_results = {}
+    for tier_name, tier_dict in [("tier_one", TIER_ONE), ("tier_two", TIER_TWO), ("tier_three", TIER_THREE)]:
+        matches = {}
+        for iso_code, names in tier_dict.items():
+            all_names = names["english_name"] + names["native_names"]
+            hits = match_languages(iso_code, all_names, readme_text, repo_name_text, tagged_langs)
+            if hits:
+                matches[iso_code] = {"english_name": names["english_name"], "matched_names": sorted(hits)}
+        tier_results[tier_name] = matches
+    return tier_results
