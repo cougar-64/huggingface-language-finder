@@ -2,9 +2,17 @@
 
 import re
 import unicodedata
-from huggingface_hub import dataset_info, hf_hub_download
-from list_of_languages import TIER_ONE, TIER_TWO, TIER_THREE
+from huggingface_hub import hf_hub_download
+import json
 
+
+with open("./language_dictionary.json", 'r') as f:
+    LANGUAGE_DATA = json.load(f)
+
+
+TIER_ONE = LANGUAGE_DATA["tier_one"]
+TIER_TWO = LANGUAGE_DATA["tier_two"]
+TIER_THREE = LANGUAGE_DATA["tier_three"]
 
 
 def normalize(text: str) -> str:

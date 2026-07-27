@@ -1,0 +1,3780 @@
+{
+  "tier_one":
+  {
+    "tgl": {
+      "english_names": [
+        "Tagalog",
+        "Tagalog language"
+      ],
+      "native_names": [
+        "wikang Tagalog"
+      ]
+    },
+    "yua": {
+      "english_names": [
+        "Yucatec Maya",
+        "Yucatec Maya language",
+        "Maaya",
+        "Maya language",
+        "Yucatec",
+        "Yucateco",
+        "Yukatek Maya",
+        "Yucatec Mayan"
+      ],
+      "native_names": [
+        "màaya t'àan"
+      ]
+    },
+    "apw": {
+      "english_names": [
+        "Western Apache",
+        "Western Apache language"
+      ],
+      "native_names": []
+    },
+    "ceb": {
+      "english_names": [
+        "Cebuano",
+        "Cebuan language",
+        "Cebuano language"
+      ],
+      "native_names": [
+        "Sinugboanon"
+      ]
+    },
+    "bam": {
+      "english_names": [
+        "Bambara",
+        "Bamanankan",
+        "Bamana",
+        "bm",
+        "Masaba script",
+        "Bambara language"
+      ],
+      "native_names": [
+        "Bamanankan"
+      ]
+    },
+    "fon": {
+      "english_names": [
+        "Fon",
+        "fon",
+        "Fon language"
+      ],
+      "native_names": [
+        "fɔ̀ngbè"
+      ]
+    },
+    "mam": {
+      "english_names": [
+        "Mam",
+        "Tacaneco",
+        "Mam language"
+      ],
+      "native_names": []
+    },
+    "guz": {
+      "english_names": [
+        "Gusii",
+        "Kisii",
+        "Ekegusii",
+        "Gusii language"
+      ],
+      "native_names": []
+    },
+    "ibb": {
+      "english_names": [
+        "Ibibio",
+        "Ibibio language"
+      ],
+      "native_names": []
+    },
+    "ssw": {
+      "english_names": [
+        "Swazi",
+        "Swati",
+        "siSwati",
+        "Swazi language"
+      ],
+      "native_names": [
+        "Siswati",
+        "siSwati"
+      ]
+    },
+    "lua": {
+      "english_names": [
+        "Luba-Kasai",
+        "Bena-Luba",
+        "Ciluba",
+        "Luba-Kasai language",
+        "Shiluba",
+        "Tshiluba",
+        "Luva",
+        "Luba-Lulua",
+        "Western Luba"
+      ],
+      "native_names": [
+        "Tshiluba"
+      ]
+    },
+    "bis": {
+      "english_names": [
+        "Bislama",
+        "bi",
+        "Bichelamar",
+        "Bislama language"
+      ],
+      "native_names": [
+        "Bislama"
+      ]
+    },
+    "ilo": {
+      "english_names": [
+        "Ilocano",
+        "Iloko",
+        "Ilocano language",
+        "Ilokano language"
+      ],
+      "native_names": [
+        "Pagsasao nga Ilokano",
+        "Ilokano"
+      ]
+    },
+    "kam": {
+      "english_names": [
+        "Kamba",
+        "Kamba language",
+        "Kamba (Kenya)",
+        "Kekamba language",
+        "Kikamba language"
+      ],
+      "native_names": []
+    },
+    "nbl": {
+      "english_names": [
+        "Southern Ndebele",
+        "South Ndebele",
+        "Southern Ndebele language",
+        "Transvaal Ndebele",
+        "nr"
+      ],
+      "native_names": [
+        "IsiNdebele"
+      ]
+    },
+    "hil": {
+      "english_names": [
+        "Hiligaynon",
+        "Ilongo",
+        "hil",
+        "Hiligayan",
+        "Hiligaynon language",
+        "Ilonggo"
+      ],
+      "native_names": [
+        "Hiligaynon"
+      ]
+    }
+  },
+
+
+
+
+
+
+
+
+
+
+  "tier_two":
+  {
+    "mar": {
+      "english_names": [
+        "Marathi",
+        "Devanagri",
+        "Marathi language"
+      ],
+      "native_names": [
+        "मराठी"
+      ]
+    },
+    "guj": {
+      "english_names": [
+        "Gujarati",
+        "Gujarati language",
+        "Guzrattee"
+      ],
+      "native_names": [
+        "ગુજરાતી"
+      ]
+    },
+    "cat": {
+      "english_names": [
+        "Catalan",
+        "Catalan language",
+        "Valencià",
+        "Valencian",
+        "Algherese",
+        "Català",
+        "East Iberian",
+        "Alguerés",
+        "Alguerès",
+        "Catalan-Valencian-Balearic"
+      ],
+      "native_names": [
+        "català",
+        "valencià"
+      ]
+    },
+    "mya": {
+      "english_names": [
+        "Burmese",
+        "Myanmar language",
+        "Burmese language"
+      ],
+      "native_names": [
+        "မြန်မာဘာသာစကား",
+        "မြန်မာဘာသာ"
+      ]
+    },
+    "kaz": {
+      "english_names": [
+        "Kazakh",
+        "Qazaq",
+        "Kazakh language",
+        "Qazaq language",
+        "Qazaqşa"
+      ],
+      "native_names": [
+        "Qazaq tılı",
+        "қазақ тілі",
+        "قازاق ٴتىلى",
+        "қазақша"
+      ]
+    },
+    "eus": {
+      "english_names": [
+        "Basque",
+        "Basque language",
+        "Euskara"
+      ],
+      "native_names": [
+        "Euskara"
+      ]
+    },
+    "kan": {
+      "english_names": [
+        "Kannada",
+        "Kanarese",
+        "Kannada language"
+      ],
+      "native_names": [
+        "ಕನ್ನಡ"
+      ]
+    },
+    "ltz": {
+      "english_names": [
+        "Luxembourgish",
+        "Luxembourgish language",
+        "Lëtzebuergesch",
+        "Luxembourg language",
+        "Luxemburgish",
+        "Luxemburgish language"
+      ],
+      "native_names": [
+        "Lëtzebuergesch"
+      ]
+    },
+    "aze": {
+      "english_names": [
+        "Azerbaijani",
+        "Azeri",
+        "Azerbaijani language",
+        "Azerbaijani Turkic",
+        "Azerbaijani Turkic language",
+        "Azerbaijani Turkish",
+        "Azeri Turkish"
+      ],
+      "native_names": [
+        "Azərbaycan dili"
+      ]
+    },
+    "mri": {
+      "english_names": [
+        "Māori",
+        "Maori",
+        "mi",
+        "Maori language",
+        "Māori language",
+        "te reo",
+        "te reo Māori",
+        "reo Māori"
+      ],
+      "native_names": [
+        "te reo Māori",
+        "te reo",
+        "Māori"
+      ]
+    },
+    "tvl": {
+      "english_names": [
+        "Tuvaluan",
+        "Tuvaluan language",
+        "tvl",
+        "Tuvalu"
+      ],
+      "native_names": [
+        "‘Gana Tuvalu"
+      ]
+    },
+    "kok": {
+      "english_names": [
+        "Konkani",
+        "kok",
+        "Konkani (macrolanguage)",
+        "Konkani language"
+      ],
+      "native_names": []
+    },
+    "wol": {
+      "english_names": [
+        "Wolof",
+        "wo",
+        "Wolof language"
+      ],
+      "native_names": [
+        "Wolof"
+      ]
+    },
+    "niu": {
+      "english_names": [
+        "Niuean",
+        "Niuean language"
+      ],
+      "native_names": [
+        "Vagahau Niuē",
+        "ko e vagahau Niuē"
+      ]
+    },
+    "pag": {
+      "english_names": [
+        "Pangasinan",
+        "pag",
+        "Pangasinan language",
+        "Pangasinese"
+      ],
+      "native_names": [
+        "pangasinan"
+      ]
+    },
+    "cym": {
+      "english_names": [
+        "Welsh",
+        "British",
+        "Cambrian",
+        "Welsh language",
+        "Cambric",
+        "British language",
+        "Cymric",
+        "Cambrian language",
+        "Cambric language",
+        "Cymric language",
+        "y Gymraeg"
+      ],
+      "native_names": [
+        "Cymraeg"
+      ]
+    },
+    "pan": {
+      "english_names": [
+        "Punjabi",
+        "Panjabi",
+        "Panjabi language",
+        "Punjabi language"
+      ],
+      "native_names": [
+        "پنجابی",
+        "ਪੰਜਾਬੀ"
+      ]
+    },
+    "war": {
+      "english_names": [
+        "Waray",
+        "war",
+        "Waray-Waray",
+        "Waray language",
+        "Lineyte-Samarnon",
+        "Waray (Philippines)",
+        "Waray-Waray language",
+        "Winaray"
+      ],
+      "native_names": [
+        "Waray-Waray",
+        "Waray-waray",
+        "Waray",
+        "Binisaya"
+      ]
+    },
+    "cro": {
+      "english_names": [
+        "Crow",
+        "Apsaalooke",
+        "Apsáalooke aliláau",
+        "Crow language"
+      ],
+      "native_names": [
+        "Apsáalooke aliláau"
+      ]
+    },
+    "miq": {
+      "english_names": [
+        "Miskito",
+        "Mískito",
+        "Miskito language"
+      ],
+      "native_names": []
+    },
+    "pis": {
+      "english_names": [
+        "Pijin",
+        "pis",
+        "Pijin language",
+        "Solomon Islands Pidgin",
+        "Solomon Islands Pidgin English",
+        "Solomon Islands Pijin",
+        "Solomon Pijin"
+      ],
+      "native_names": []
+    },
+    "rar": {
+      "english_names": [
+        "Cook Islands Maori",
+        "Rarotongan",
+        "rar",
+        "Cook Islands Māori",
+        "Maori Kuki Airani",
+        "Māori Kūki ʻĀirani",
+        "Te reo Ipukarea"
+      ],
+      "native_names": [
+        "Te Reo Maori",
+        "Māori Kūki 'Āirani"
+      ]
+    },
+    "rtm": {
+      "english_names": [
+        "Rotuman",
+        "Rotuman language"
+      ],
+      "native_names": [
+        "Fäeag Rotuḁm"
+      ]
+    },
+    "tzh": {
+      "english_names": [
+        "Tzeltal",
+        "Tzeltal language"
+      ],
+      "native_names": []
+    },
+    "zap": {
+      "english_names": [
+        "Zapotec",
+        "Zapotec language"
+      ],
+      "native_names": []
+    },
+    "bem": {
+      "english_names": [
+        "Bemba",
+        "IchiBemba",
+        "Chibemba",
+        "Bemba (Zambia)",
+        "Bemba language",
+        "Cibemba"
+      ],
+      "native_names": []
+    },
+    "bla": {
+      "english_names": [
+        "Blackfoot",
+        "Siksika",
+        "Siksiká",
+        "Blackfoot language",
+        "Siksikáíitsi'powahsini"
+      ],
+      "native_names": [
+        "ᓱᖽᐧᖿ"
+      ]
+    },
+    "bik": {
+      "english_names": [
+        "Bikol",
+        "Bicol",
+        "Bicol languages",
+        "Bicolano",
+        "Bikol languages",
+        "Bikolano"
+      ],
+      "native_names": []
+    },
+    "ijc": {
+      "english_names": [
+        "Izon",
+        "Izon language"
+      ],
+      "native_names": []
+    },
+    "sto": {
+      "english_names": [
+        "Stoney",
+        "Stony",
+        "Nakoda",
+        "Nakota",
+        "Alberta Assiniboine",
+        "Stoney language"
+      ],
+      "native_names": []
+    },
+    "dhv": {
+      "english_names": [
+        "Drehu",
+        "Dehu",
+        "Drehu language"
+      ],
+      "native_names": []
+    },
+    "cag": {
+      "english_names": [
+        "Nivaclé",
+        "Nivacle",
+        "Nivacle language",
+        "Nivaclé language"
+      ],
+      "native_names": []
+    },
+    "tdt": {
+      "english_names": [
+        "Tetun Dili",
+        "Tetum Dili"
+      ],
+      "native_names": []
+    },
+    "mkw": {
+      "english_names": [
+        "Kituba (Congo)",
+        "Kituba",
+        "Kituba (Congo) language",
+        "Kituba language"
+      ],
+      "native_names": []
+    },
+    "mxv": {
+      "english_names": [
+        "Metlatónoc Mixtec",
+        "Metlatónoc Mixtec language"
+      ],
+      "native_names": []
+    },
+    "ktu": {
+      "english_names": [
+        "Kituba (Democratic Republic of Congo)",
+        "Kituba",
+        "Kituba language",
+        "Kituba (Democratic Republic of Congo) language"
+      ],
+      "native_names": []
+    },
+    "ckb": {
+      "english_names": [
+        "Sorani",
+        "Central Kurdish",
+        "Kurdish (Sorani)",
+        "Soranî",
+        "Sorani dialect",
+        "Sorani Kurdish"
+      ],
+      "native_names": [
+        "کوردیی ناوەندی",
+        "سۆرانی",
+        "کوردی"
+      ]
+    },
+    "tzj": {
+      "english_names": [
+        "Tz’utujil",
+        "Tz'utujil",
+        "Tz’utujil language",
+        "Tzutujil language,"
+      ],
+      "native_names": []
+    },
+    "ksw": {
+      "english_names": [
+        "S'gaw Karen",
+        "Karen"
+      ],
+      "native_names": []
+    },
+    "arp": {
+      "english_names": [
+        "Arapaho",
+        "Arapahoe",
+        "arp",
+        "Arapaho language"
+      ],
+      "native_names": [
+        "Hinónoʼeitíít"
+      ]
+    },
+    "cha": {
+      "english_names": [
+        "Chamorro",
+        "ch",
+        "Chamorro language"
+      ],
+      "native_names": [
+        "Chamorru",
+        "Chamorro"
+      ]
+    },
+    "iba": {
+      "english_names": [
+        "Iban",
+        "Iban Coastal Dayak",
+        "Iban language",
+        "Sea Dayak",
+        "Sea Dyak"
+      ],
+      "native_names": [
+        "jaku Iban"
+      ]
+    },
+    "meu": {
+      "english_names": [
+        "Motu",
+        "Motu language"
+      ],
+      "native_names": []
+    },
+    "lkt": {
+      "english_names": [
+        "Lakota",
+        "Teton",
+        "lkt",
+        "Teton Sioux",
+        "Lakhota",
+        "Lakota language"
+      ],
+      "native_names": [
+        "Lakȟótiyapi"
+      ]
+    },
+    "kea": {
+      "english_names": [
+        "Cape Verdean Creole",
+        "Kabuverdianu",
+        "kea",
+        "Kriolu",
+        "Cape Verde Portuguese",
+        "Cape Verdean Portuguese"
+      ],
+      "native_names": [
+        "kriolu kabuverdianu",
+        "kabuverdianu"
+      ]
+    },
+    "pam": {
+      "english_names": [
+        "Kapampangan",
+        "Pampangan",
+        "amánung sísuan",
+        "Kapampangan language",
+        "Pampangan language",
+        "Pampango"
+      ],
+      "native_names": [
+        "Kapampángan"
+      ]
+    },
+    "mal": {
+      "english_names": [
+        "Malayalam",
+        "Malayalam language"
+      ],
+      "native_names": [
+        "مَلَیٰاۻَمْ",
+        "മലയാളം"
+      ]
+    },
+    "cuk": {
+      "english_names": [
+        "San Blas Kuna"
+      ],
+      "native_names": []
+    }
+  },
+
+
+
+
+
+
+
+
+
+
+  "tier_three": {
+    "heb": {
+      "english_names": [
+        "Modern Hebrew",
+        "Israeli (Modern) Hebrew",
+        "Israeli Hebrew",
+        "Israeli Modern Hebrew",
+        "Modern (Israeli) Hebrew",
+        "Modern Israeli Hebrew",
+        "Hebrew",
+        "Hebrew language",
+        "Ivrit",
+        "Iwrit"
+      ],
+      "native_names": [
+        "עברית חדשה",
+        "עברית"
+      ]
+    },
+    "bel": {
+      "english_names": [
+        "Belarusian",
+        "Belarussian language",
+        "Byelorussian",
+        "Belorussian",
+        "White Russian",
+        "Bielaruskaja",
+        "Belarus language",
+        "Belarusan",
+        "Belarusan language",
+        "Belarusian language",
+        "Belarussian",
+        "Belorusian",
+        "Belorusian language",
+        "Belorussian language",
+        "Bielarusian",
+        "Bielarusian language",
+        "Bielorusian",
+        "Bielorussian",
+        "Bielorussian language",
+        "Byelorussian language",
+        "White Russian language",
+        "Bielorusian language"
+      ],
+      "native_names": [
+        "беларуская мова"
+      ]
+    },
+    "zha": {
+      "english_names": [
+        "Zhuang",
+        "Chuang",
+        "Zhuang languages"
+      ],
+      "native_names": [
+        "Vahcuengh"
+      ]
+    },
+    "uig": {
+      "english_names": [
+        "Uyghur",
+        "ug",
+        "Eastern Turkish",
+        "Uighur",
+        "Uighur language",
+        "Uyghur language"
+      ],
+      "native_names": [
+        "ئۇيغۇرچە",
+        "ئۇيغۇر تىلى",
+        "ئۇيغۇر"
+      ]
+    },
+    "haw": {
+      "english_names": [
+        "Hawaiian",
+        "Hawaiʻian language",
+        "Hawaiian language",
+        "ʻŌlelo Hawaiʻi"
+      ],
+      "native_names": [
+        "‘Ōlelo Hawai‘i"
+      ]
+    },
+    "asm": {
+      "english_names": [
+        "Assamese",
+        "Asamiya",
+        "Asamiya language",
+        "Asomiya",
+        "Assamese language",
+        "Axomiya",
+        "Axomiya language"
+      ],
+      "native_names": [
+        "অসমীয়া ভাষা",
+        "অসমীয়া"
+      ]
+    },
+    "aym": {
+      "english_names": [
+        "Aymara",
+        "Aimara language",
+        "ay",
+        "Aymara language",
+        "Aymará language",
+        "Aymara languages",
+        "Caranga language"
+      ],
+      "native_names": [
+        "Aymar aru"
+      ]
+    },
+    "som": {
+      "english_names": [
+        "Somali",
+        "so",
+        "Somali language",
+        "Af Soomaali, Somali"
+      ],
+      "native_names": [
+        "𐒖𐒍 𐒈𐒝𐒑𐒛𐒐𐒘",
+        "اف صومالِ",
+        "Af-Soomaali"
+      ]
+    },
+    "tat": {
+      "english_names": [
+        "Tatar",
+        "Tatar language",
+        "Tartarian",
+        "Kazan Tatar language",
+        "Qazan Tatar language",
+        "Volga Tatar",
+        "Volga Tatar language"
+      ],
+      "native_names": [
+        "татар теле"
+      ]
+    },
+    "fuc": {
+      "english_names": [
+        "Pulaar",
+        "Pulaar language"
+      ],
+      "native_names": [
+        "𞤆𞤵𞤤𞤢𞥄𞤪",
+        "بولار",
+        "Pulaar"
+      ]
+    },
+    "syl": {
+      "english_names": [
+        "Sylheti",
+        "Syloti",
+        "Sylhetti",
+        "Sylheti language",
+        "Sylhetia language",
+        "Sylhetti language",
+        "Syloti language"
+      ],
+      "native_names": [
+        "ꠘꠣꠉꠞꠤ ꠜꠣꠡꠣ",
+        "ꠍꠤꠟꠐꠤ ꠝꠣꠔ"
+      ]
+    },
+    "tgk": {
+      "english_names": [
+        "Tajik",
+        "Tajik language",
+        "Tadjik",
+        "Tadzhik",
+        "Tadjik language",
+        "Tadzhik language",
+        "Tajik Persian",
+        "Tajiki",
+        "Tajiki language",
+        "Tajiki Persian",
+        "Standard Tajik",
+        "Adabi",
+        "Badei",
+        "Kitobi",
+        "Standarti"
+      ],
+      "native_names": [
+        "забони тоҷикӣ",
+        "забони адабӣ"
+      ]
+    },
+    "tuk": {
+      "english_names": [
+        "Turkmen",
+        "Turkmen language"
+      ],
+      "native_names": [
+        "تۆرکمنچه",
+        "түркменче",
+        "Türkmençe",
+        "Türkmen"
+      ]
+    },
+    "sun": {
+      "english_names": [
+        "Sundanese",
+        "Sunda",
+        "Sundanese language"
+      ],
+      "native_names": [
+        "Basa Sunda"
+      ]
+    },
+    "tir": {
+      "english_names": [
+        "Tigrinya",
+        "Tigrigna",
+        "Tigrinja",
+        "Tigrinya alphabet",
+        "Tigrinya language"
+      ],
+      "native_names": [
+        "ትግርኛ"
+      ]
+    },
+    "shi": {
+      "english_names": [
+        "Tashelhit",
+        "Chleuh",
+        "Tachelhit",
+        "Shilha",
+        "Schleuh",
+        "Tachelhit language",
+        "Tashelhit language"
+      ],
+      "native_names": [
+        "ⵜⴰⵛⵍⵃⵉⵜ",
+        "Taclḥit",
+        "تشلحيت"
+      ]
+    },
+    "bal": {
+      "english_names": [
+        "Balochi",
+        "Balochi language",
+        "Baluchi",
+        "Baluchi language"
+      ],
+      "native_names": [
+        "Balóchí",
+        "بلۏچی",
+        "بلۆچی",
+        "بلوچی",
+        "بَلوچِي",
+        "Балочи"
+      ]
+    },
+    "vmw": {
+      "english_names": [
+        "Makhuwa",
+        "Emakhuwa language",
+        "Macua language",
+        "Makhuwa language",
+        "Makua language"
+      ],
+      "native_names": []
+    },
+    "skr": {
+      "english_names": [
+        "Saraiki",
+        "Siraiki",
+        "Saraiki language",
+        "Seraiki"
+      ],
+      "native_names": [
+        "سرائیکی"
+      ]
+    },
+    "sat": {
+      "english_names": [
+        "Santali",
+        "Santal",
+        "Santali language",
+        "Santhal language",
+        "Santhali",
+        "Santhali language"
+      ],
+      "native_names": [
+        "సంతాలి భాష",
+        "சந்தாளி மொழி",
+        "ਸੰਥਾਲੀ ਭਾਸ਼ਾ",
+        "ସାନ୍ତାଳୀ ଭାଷା",
+        "Santali",
+        "संथाली भाषा",
+        "সাঁওতালি",
+        "চাঁওতালি",
+        "सन्थाली भाषा",
+        "ᱥᱟᱱᱛᱟᱲᱤ"
+      ]
+    },
+    "run": {
+      "english_names": [
+        "Kirundi",
+        "Rundi",
+        "Ikirundi"
+      ],
+      "native_names": [
+        "Ikirundi"
+      ]
+    },
+    "kik": {
+      "english_names": [
+        "Gikuyu",
+        "Kikuyu",
+        "Gĩgĩkũyũ",
+        "Gĩkũyũ",
+        "Gikuyu language",
+        "Kikuyu language"
+      ],
+      "native_names": [
+        "Gĩkũyũ",
+        "Gĩgĩkũyũ"
+      ]
+    },
+    "suk": {
+      "english_names": [
+        "Sukuma",
+        "Sukuma language"
+      ],
+      "native_names": [
+        "Jìsùgǔmà"
+      ]
+    },
+    "bjj": {
+      "english_names": [
+        "Kannauji",
+        "Kanauji",
+        "Kannauji language"
+      ],
+      "native_names": []
+    },
+    "rkt": {
+      "english_names": [
+        "Rangpuri",
+        "Deshi",
+        "Rajbanshi language",
+        "Deshi language",
+        "Kamtapuri language",
+        "Rangpuri language"
+      ],
+      "native_names": [
+        "দেশী"
+      ]
+    },
+    "hne": {
+      "english_names": [
+        "Chhattisgarhi",
+        "Chhattisgarhi language"
+      ],
+      "native_names": []
+    },
+    "ctg": {
+      "english_names": [
+        "Chittagonian",
+        "Chittagonian language",
+        "ctg"
+      ],
+      "native_names": []
+    },
+    "bho": {
+      "english_names": [
+        "Bhojpuri",
+        "Bhojpuri language"
+      ],
+      "native_names": [
+        "भोजपुरी भाषा",
+        "भोजपुरी"
+      ]
+    },
+    "mag": {
+      "english_names": [
+        "Magahi",
+        "Bihari Magahi",
+        "Magahi Bihari",
+        "Magahi language"
+      ],
+      "native_names": [
+        "मगही"
+      ]
+    },
+    "ory": {
+      "english_names": [
+        "Odia",
+        "Oriya",
+        "Odia language",
+        "Oriya language"
+      ],
+      "native_names": [
+        "ଓଡ଼ିଆ ଭାଷା",
+        "ଓଡ଼ିଆ"
+      ]
+    },
+    "tso": {
+      "english_names": [
+        "Tsonga",
+        "Changana",
+        "Shangana",
+        "Shangani",
+        "Xitsonga",
+        "Tsonga language",
+        "xiChangana",
+        "xiShangana"
+      ],
+      "native_names": [
+        "Xitsonga",
+        "Tsonga"
+      ]
+    },
+    "vah": {
+      "english_names": [
+        "Varhadi",
+        "Varhadi-Nagpuri",
+        "Varhadi dialect"
+      ],
+      "native_names": []
+    },
+    "prs": {
+      "english_names": [
+        "Dari",
+        "Afghan Farsi",
+        "Afghan Persian",
+        "Dari language",
+        "Eastern Farsi",
+        "Eastern Persian",
+        "fa_AF",
+        "fa-af",
+        "fa-AF"
+      ],
+      "native_names": [
+        "دری"
+      ]
+    },
+    "bgc": {
+      "english_names": [
+        "Haryanvi",
+        "Haryani",
+        "Bangaru",
+        "Bangru",
+        "Haryanavi",
+        "Haryanvi language",
+        "Rangri"
+      ],
+      "native_names": [
+        "हरियाणवी",
+        "ہریاݨوی"
+      ]
+    },
+    "mup": {
+      "english_names": [
+        "Malvi",
+        "Malvi language"
+      ],
+      "native_names": []
+    },
+    "jav": {
+      "english_names": [
+        "Javanese",
+        "Javanese language"
+      ],
+      "native_names": [
+        "Basa Jawa",
+        "Jawa"
+      ]
+    },
+    "kau": {
+      "english_names": [
+        "Kanuri",
+        "kr",
+        "Kanuri language",
+        "Kanuri Language"
+      ],
+      "native_names": [
+        "kanuri"
+      ]
+    },
+    "mos": {
+      "english_names": [
+        "Mooré",
+        "Moore",
+        "More",
+        "Mossi",
+        "mos",
+        "Moshi",
+        "Moré",
+        "Mòoré",
+        "Moore language",
+        "Mossi language"
+      ],
+      "native_names": [
+        "mòoré"
+      ]
+    },
+    "kas": {
+      "english_names": [
+        "Kashmiri",
+        "Kashmiri language",
+        "Koshur"
+      ],
+      "native_names": [
+        "𑆑𑆳𑆯𑆶𑆫𑇀",
+        "कॉशुर",
+        "کٲشُر"
+      ]
+    },
+    "snd": {
+      "english_names": [
+        "Sindhi",
+        "Sindhi language"
+      ],
+      "native_names": [
+        "સિંધી",
+        "सिंधी",
+        "سِنڌِي"
+      ]
+    },
+    "mai": {
+      "english_names": [
+        "Maithili",
+        "Maithili language"
+      ],
+      "native_names": [
+        "मैथिली"
+      ]
+    },
+    "mad": {
+      "english_names": [
+        "Madurese",
+        "Madura",
+        "Madura language",
+        "Madurese language"
+      ],
+      "native_names": [
+        "ꦧꦱꦩꦢꦸꦫ",
+        "Bhâsa Madhurâ"
+      ]
+    },
+    "umb": {
+      "english_names": [
+        "Umbundu",
+        "South Mbundu language",
+        "Umbundu language"
+      ],
+      "native_names": [
+        "Úmbúndú"
+      ]
+    },
+    "bns": {
+      "english_names": [
+        "Bundeli",
+        "Bundeli language"
+      ],
+      "native_names": []
+    },
+    "hau": {
+      "english_names": [
+        "Hausa",
+        "Hausa language"
+      ],
+      "native_names": [
+        "هَوْسَ",
+        "Hausa"
+      ]
+    },
+    "wes": {
+      "english_names": [
+        "Cameroon Pidgin",
+        "Kamtok",
+        "Cameroon Pidgin English",
+        "Cameroonian Creole",
+        "Cameroonian Pidgin English"
+      ],
+      "native_names": []
+    },
+    "kab": {
+      "english_names": [
+        "Kabyle",
+        "Kabyle language",
+        "Kabylian",
+        "Taqbaylit"
+      ],
+      "native_names": [
+        "Taqbaylit",
+        "taqbaylit"
+      ]
+    },
+    "pus": {
+      "english_names": [
+        "Pashto",
+        "Pashto language",
+        "Afghan",
+        "Pashtun",
+        "Afghan language",
+        "Afghani language",
+        "Pashtun language",
+        "Pushto",
+        "Pushto language",
+        "Pushtoo"
+      ],
+      "native_names": [
+        "پښتو ژبه",
+        "پښتو"
+      ]
+    },
+    "kvn": {
+      "english_names": [
+        "Border Kuna"
+      ],
+      "native_names": []
+    },
+    "glg": {
+      "english_names": [
+        "Galician",
+        "Galician language"
+      ],
+      "native_names": [
+        "lingua galega",
+        "galego"
+      ]
+    },
+    "nyn": {
+      "english_names": [
+        "Runyankole",
+        "Nkole",
+        "Nkore language",
+        "Nyankole",
+        "Nyankore",
+        "Orunyankole",
+        "Orunyankore",
+        "Runyankore"
+      ],
+      "native_names": []
+    },
+    "min": {
+      "english_names": [
+        "Minangkabau",
+        "Bahaso Minang",
+        "Baso Minang",
+        "Baso Minangkabau",
+        "Minangkabau language"
+      ],
+      "native_names": [
+        "bahaso Minangkabau"
+      ]
+    },
+    "ace": {
+      "english_names": [
+        "Acehnese",
+        "ace",
+        "Aceh language",
+        "Acehnese language",
+        "Achinese",
+        "ISO ace"
+      ],
+      "native_names": [
+        "bahsa Acèh"
+      ]
+    },
+    "bew": {
+      "english_names": [
+        "Betawi",
+        "Batavian Javan Creole",
+        "Batavian language",
+        "Betawi Javan Creole",
+        "Betawi language",
+        "bew",
+        "Jakartan Javan Creole"
+      ],
+      "native_names": [
+        "basa Betawi"
+      ]
+    },
+    "bej": {
+      "english_names": [
+        "Beja",
+        "Bedawi",
+        "Bedja",
+        "Badāwīyä",
+        "Bedauye",
+        "Bedawiye",
+        "Bedawiyet",
+        "Bedwi",
+        "Bedya",
+        "bej",
+        "Beja language",
+        "Bidhaawyeet",
+        "Ti-Bedaauye",
+        "Ti-Bedauye",
+        "To-Bedawye",
+        "Tu-Bdhaawi",
+        "Tu-Bedawie"
+      ],
+      "native_names": []
+    },
+    "ban": {
+      "english_names": [
+        "Balinese",
+        "Bali",
+        "Balinese language"
+      ],
+      "native_names": [
+        "ᬩᬲᬩᬮᬶ",
+        "Basa Bali"
+      ]
+    },
+    "brh": {
+      "english_names": [
+        "Brahui",
+        "Brahui language",
+        "brh"
+      ],
+      "native_names": [
+        "Bráhuí",
+        "براہوئی"
+      ]
+    },
+    "hoj": {
+      "english_names": [
+        "Hadauti",
+        "Hadothi",
+        "Hadoti",
+        "Harauti",
+        "Haroti"
+      ],
+      "native_names": []
+    },
+    "bhb": {
+      "english_names": [
+        "Bhili",
+        "Bhil dialect",
+        "Bhili language",
+        "Bhilla",
+        "Bhilodi"
+      ],
+      "native_names": []
+    },
+    "haz": {
+      "english_names": [
+        "Hazaragi",
+        "Hazaragi dialect",
+        "Hazargi"
+      ],
+      "native_names": [
+        "آزرگی"
+      ]
+    },
+    "aar": {
+      "english_names": [
+        "Afar",
+        "aa",
+        "Adal",
+        "’Afar Af",
+        "Afar language",
+        "Afaraf",
+        "Qafar"
+      ],
+      "native_names": [
+        "عفر-فى",
+        "Qafar af",
+        "Qafar",
+        "Afaraf",
+        "Afar-af",
+        "’Afar Af"
+      ]
+    },
+    "teo": {
+      "english_names": [
+        "Teso",
+        "Ateso",
+        "Teso language"
+      ],
+      "native_names": []
+    },
+    "awa": {
+      "english_names": [
+        "Awadhi",
+        "Awadhi language"
+      ],
+      "native_names": [
+        "अवधी"
+      ]
+    },
+    "dgo": {
+      "english_names": [
+        "Dogri",
+        "Pahari language",
+        "Dogari",
+        "Dogri language",
+        "Dugari",
+        "Duggari"
+      ],
+      "native_names": [
+        "डोगरी"
+      ]
+    },
+    "kir": {
+      "english_names": [
+        "Kyrgyz",
+        "Kyrgyz language",
+        "Kirghiz",
+        "Kirgiz",
+        "Kirghiz language",
+        "Kirgiz language"
+      ],
+      "native_names": [
+        "Кыргыз тили",
+        "кыргызча"
+      ]
+    },
+    "bos": {
+      "english_names": [
+        "Bosnian",
+        "Bosniak",
+        "Bosanski",
+        "Bosniak language",
+        "Bosnian language"
+      ],
+      "native_names": [
+        "bosanski",
+        "bosanski jezik"
+      ]
+    },
+    "sus": {
+      "english_names": [
+        "Susu",
+        "Susu language"
+      ],
+      "native_names": [
+        "Sosoxui"
+      ]
+    },
+    "rif": {
+      "english_names": [
+        "Tarifit",
+        "Rif",
+        "Riffian",
+        "rif",
+        "Rif Berber",
+        "Riffian Berber",
+        "Riffian language",
+        "Rifian Berber",
+        "Rifian language",
+        "Tarifect",
+        "Tarifiyt",
+        "Tharifith",
+        "Tmaziɣt"
+      ],
+      "native_names": [
+        "ⵜⴰⵔⵉⴼⵉⵜ",
+        "تاريفيت",
+        "Tarifit"
+      ]
+    },
+    "pcc": {
+      "english_names": [
+        "Bouyei",
+        "Bouyei language"
+      ],
+      "native_names": []
+    },
+    "yao": {
+      "english_names": [
+        "Yao",
+        "Yao language"
+      ],
+      "native_names": [
+        "chiYao"
+      ]
+    },
+    "dje": {
+      "english_names": [
+        "Zarma",
+        "Djerma",
+        "Dyerma",
+        "Zabarma",
+        "Zerma",
+        "Adzerma",
+        "Dyabarma",
+        "Dyarma",
+        "Zarbarma",
+        "Zarma language",
+        "Zarmaci"
+      ],
+      "native_names": []
+    },
+    "mey": {
+      "english_names": [
+        "Hassaniya Arabic",
+        "Maure",
+        "Hassani",
+        "Hassaniya",
+        "Hassaniyya",
+        "Hassaniyya Arabic",
+        "Klam El Bithan"
+      ],
+      "native_names": []
+    },
+    "din": {
+      "english_names": [
+        "Dinka",
+        "Dinka language"
+      ],
+      "native_names": [
+        "Thuɔŋjäŋ",
+        "Jieng"
+      ]
+    },
+    "shn": {
+      "english_names": [
+        "Shan",
+        "shn",
+        "Shan language",
+        "Tai Yai"
+      ],
+      "native_names": [
+        "လိၵ်ႈတႆး"
+      ]
+    },
+    "cjk": {
+      "english_names": [
+        "Chokwe",
+        "Chokwe language"
+      ],
+      "native_names": []
+    },
+    "anw": {
+      "english_names": [
+        "Anaang",
+        "Anaang language"
+      ],
+      "native_names": []
+    },
+    "mtr": {
+      "english_names": [
+        "Mewari",
+        "Mewari language"
+      ],
+      "native_names": []
+    },
+    "rhg": {
+      "english_names": [
+        "Rohingya",
+        "Rohingya language",
+        "Rohingyalish"
+      ],
+      "native_names": []
+    },
+    "gdx": {
+      "english_names": [
+        "Godwari",
+        "Godwari dialect"
+      ],
+      "native_names": []
+    },
+    "fuf": {
+      "english_names": [
+        "Pular",
+        "fuf",
+        "Pular language"
+      ],
+      "native_names": [
+        "𞤆𞤵𞤤𞤢𞤪",
+        "Pular"
+      ]
+    },
+    "swv": {
+      "english_names": [
+        "Shekhawati",
+        "Shekhawati language"
+      ],
+      "native_names": []
+    },
+    "spv": {
+      "english_names": [
+        "Sambalpuri",
+        "Kosli",
+        "Kosali language",
+        "Koshali",
+        "Sambalpuri language",
+        "spv"
+      ],
+      "native_names": []
+    },
+    "wbr": {
+      "english_names": [
+        "Wagdi",
+        "Wagdi language"
+      ],
+      "native_names": []
+    },
+    "wry": {
+      "english_names": [
+        "Merwari",
+        "Merwari language"
+      ],
+      "native_names": []
+    },
+    "phr": {
+      "english_names": [
+        "Pahari-Pothohari",
+        "Pahari-Potwari",
+        "Pahari-Pothwari"
+      ],
+      "native_names": []
+    },
+    "mui": {
+      "english_names": [
+        "Musi",
+        "Musi Malay"
+      ],
+      "native_names": [
+        "Miling Musai",
+        "Basé Musi"
+      ]
+    },
+    "sck": {
+      "english_names": [
+        "Nagpuri",
+        "Sadri",
+        "Sadani",
+        "Sadari"
+      ],
+      "native_names": [
+        "सादरी",
+        "नागपुरी"
+      ]
+    },
+    "uzs": {
+      "english_names": [
+        "Southern Uzbek",
+        "Afghan Uzbek",
+        "Afghan Uzbek language",
+        "Southern Uzbek language",
+        "uzs"
+      ],
+      "native_names": [
+        "اوزبیک تورکچه"
+      ]
+    },
+    "bfy": {
+      "english_names": [
+        "Bagheli",
+        "Bagheli language"
+      ],
+      "native_names": []
+    },
+    "gbm": {
+      "english_names": [
+        "Garhwali",
+        "Garhwali language"
+      ],
+      "native_names": [
+        "गढ़वळि"
+      ]
+    },
+    "glk": {
+      "english_names": [
+        "Gilaki",
+        "glk",
+        "Gilaki language"
+      ],
+      "native_names": [
+        "گيلکي"
+      ]
+    },
+    "sid": {
+      "english_names": [
+        "Sidamo",
+        "sid",
+        "Sidama language",
+        "Wdd Manni Qoqqowu Mangisite Odoo"
+      ],
+      "native_names": []
+    },
+    "xog": {
+      "english_names": [
+        "Soga",
+        "JE.16",
+        "Lusoga language",
+        "Soga language",
+        "soga1422",
+        "xog"
+      ],
+      "native_names": []
+    },
+    "bjn": {
+      "english_names": [
+        "Banjar",
+        "Banjarese",
+        "Banjar language",
+        "Banjarese language",
+        "bjn"
+      ],
+      "native_names": [
+        "bahasa Banjar"
+      ]
+    },
+    "bug": {
+      "english_names": [
+        "Bugis",
+        "Buginese",
+        "Buginese language",
+        "Bugis language",
+        "Bugisnese language"
+      ],
+      "native_names": [
+        "ᨅᨔ ᨕᨚᨁᨗ",
+        "basa Ogi"
+      ]
+    },
+    "sdh": {
+      "english_names": [
+        "Southern Kurdish"
+      ],
+      "native_names": []
+    },
+    "hno": {
+      "english_names": [
+        "Northern Hindko"
+      ],
+      "native_names": []
+    },
+    "lmn": {
+      "english_names": [
+        "Lambadi"
+      ],
+      "native_names": []
+    },
+    "tiv": {
+      "english_names": [
+        "Tiv"
+      ],
+      "native_names": []
+    },
+    "ndc": {
+      "english_names": [
+        "Ndau",
+        "Chidanda language",
+        "chiNdau language",
+        "Chindau language",
+        "Ndau language",
+        "Ndzawu language",
+        "Njao language",
+        "Sofala language",
+        "Southeast Shona language"
+      ],
+      "native_names": []
+    },
+    "mer": {
+      "english_names": [
+        "Meru",
+        "Kimeru",
+        "Meru language"
+      ],
+      "native_names": []
+    },
+    "mzn": {
+      "english_names": [
+        "Mazanderani",
+        "Tabari",
+        "Mazanderani language",
+        "Tabari language"
+      ],
+      "native_names": [
+        "مازرونی زبون",
+        "گلکی",
+        "طبری",
+        "مازرونی"
+      ]
+    },
+    "brx": {
+      "english_names": [
+        "Bodo",
+        "बर' राव",
+        "Boro",
+        "Boro language",
+        "Bodo (India)",
+        "Bodo language",
+        "Bodo/Boro",
+        "Boro language (India)",
+        "brx",
+        "बर'",
+        "बोड़ो"
+      ],
+      "native_names": [
+        "बोडो भाषा",
+        "बोडो"
+      ]
+    },
+    "che": {
+      "english_names": [
+        "Chechen",
+        "Chechen language"
+      ],
+      "native_names": [
+        "Нохчийн мотт",
+        "Noxçiyn mott"
+      ]
+    },
+    "kru": {
+      "english_names": [
+        "Kurukh",
+        "Kurukh language",
+        "Oraon",
+        "Urang",
+        "Kurukh bhasha",
+        "Kurukhi",
+        "Kurux",
+        "Oraon language",
+        "Oraoni",
+        "Uranw",
+        "उरांव",
+        "कुरुख",
+        "कुरूख"
+      ],
+      "native_names": []
+    },
+    "ach": {
+      "english_names": [
+        "Acholi",
+        "Gang",
+        "Shuli",
+        "Luo",
+        "Acoli",
+        "Acooli",
+        "Atscholi",
+        "Acholi dialect"
+      ],
+      "native_names": []
+    },
+    "any": {
+      "english_names": [
+        "Anyin",
+        "Agni language",
+        "Agny language",
+        "Anyi language",
+        "Anyin language"
+      ],
+      "native_names": []
+    },
+    "dyu": {
+      "english_names": [
+        "Dioula",
+        "Dyula",
+        "Dioula language",
+        "Dioula, Dyula",
+        "dyu",
+        "Dyula language",
+        "Jula language"
+      ],
+      "native_names": []
+    },
+    "bbc": {
+      "english_names": [
+        "Toba Batak",
+        "Batak Toba",
+        "Batak Toba language",
+        "Toba Batak language",
+        "Toba Batta",
+        "Toba language"
+      ],
+      "native_names": [
+        "Hata Batak"
+      ]
+    },
+    "ngl": {
+      "english_names": [
+        "Lomwe",
+        "ELomwe",
+        "Lomwe language"
+      ],
+      "native_names": []
+    },
+    "kmb": {
+      "english_names": [
+        "Kimbundu",
+        "North Mbundu language"
+      ],
+      "native_names": []
+    },
+    "lub": {
+      "english_names": [
+        "Luba-Katanga",
+        "Kiluba",
+        "Luba-Katanga language",
+        "Luba-Shaba"
+      ],
+      "native_names": [
+        "Kiluba"
+      ]
+    },
+    "srr": {
+      "english_names": [
+        "Serer",
+        "Serer language",
+        "Serer-Sine"
+      ],
+      "native_names": [
+        "Seereer"
+      ]
+    },
+    "tem": {
+      "english_names": [
+        "Temne",
+        "Temne language",
+        "Timne"
+      ],
+      "native_names": [
+        "KʌThemnɛ"
+      ]
+    },
+    "mni": {
+      "english_names": [
+        "Meitei",
+        "Kanglei-lon",
+        "Meetei Manipuri",
+        "Meetei-lon",
+        "Meitei language",
+        "Meitei-lon",
+        "Meiteilon",
+        "Meithei",
+        "Meetei",
+        "Manipuri"
+      ],
+      "native_names": [
+        "ꯃꯤꯇꯩ ꯂꯣꯟ"
+      ]
+    },
+    "tum": {
+      "english_names": [
+        "Tumbuka",
+        "tum",
+        "Chitumbuka",
+        "Tumbuka language"
+      ],
+      "native_names": [
+        "Chiyowoyelo cha Chitumbuka",
+        "Chitumbuka"
+      ]
+    },
+    "abr": {
+      "english_names": [
+        "Bono",
+        "Abron",
+        "abr",
+        "Bono dialect",
+        "Bono Twi",
+        "Brong"
+      ],
+      "native_names": [
+        "twi"
+      ]
+    },
+    "mgh": {
+      "english_names": [
+        "Makhuwa-Meetto",
+        "Makhuwa-Meetto language"
+      ],
+      "native_names": []
+    },
+    "mak": {
+      "english_names": [
+        "Makassar",
+        "Makasar",
+        "Makassarese",
+        "Makasar language",
+        "Makassar language",
+        "Makassarese language",
+        "Standard Makassar"
+      ],
+      "native_names": [
+        "ᨅᨔ ᨆᨀᨔᨑ",
+        "Basa Mangkasaraʼ"
+      ]
+    },
+    "nus": {
+      "english_names": [
+        "Nuer",
+        "Nuer language"
+      ],
+      "native_names": []
+    },
+    "mnk": {
+      "english_names": [
+        "Mandinka",
+        "Mandingo",
+        "Mandingo language",
+        "Mandinka language"
+      ],
+      "native_names": [
+        "Mandinka kaŋo"
+      ]
+    },
+    "zne": {
+      "english_names": [
+        "Zande",
+        "Zande (individual language)",
+        "Zande language"
+      ],
+      "native_names": []
+    },
+    "bci": {
+      "english_names": [
+        "Baoulé",
+        "Baule",
+        "Baoule",
+        "Bawule",
+        "bci"
+      ],
+      "native_names": []
+    },
+    "igb": {
+      "english_names": [
+        "Ebira",
+        "Ebira language"
+      ],
+      "native_names": []
+    },
+    "bin": {
+      "english_names": [
+        "Edo",
+        "Bini",
+        "Bini language",
+        "Edo language"
+      ],
+      "native_names": [
+        "Ẹ̀dó"
+      ]
+    },
+    "igl": {
+      "english_names": [
+        "Igala",
+        "Igala language"
+      ],
+      "native_names": []
+    },
+    "laj": {
+      "english_names": [
+        "Lango",
+        "Lango (Uganda)",
+        "Lwo",
+        "Lwoo",
+        "Lango dialect",
+        "Leb-Lango"
+      ],
+      "native_names": []
+    },
+    "hay": {
+      "english_names": [
+        "Haya",
+        "Haya language"
+      ],
+      "native_names": []
+    },
+    "mas": {
+      "english_names": [
+        "Maasai",
+        "Maa",
+        "mas",
+        "Masai",
+        "Maa language",
+        "Maasai language",
+        "Maasai, Masai"
+      ],
+      "native_names": []
+    },
+    "dnj": {
+      "english_names": [
+        "Dan",
+        "Gio",
+        "Gyo",
+        "Da",
+        "Dan language",
+        "Gio-Dan",
+        "Yacouba",
+        "Yakubasa",
+        "Yaoba"
+      ],
+      "native_names": []
+    },
+    "sas": {
+      "english_names": [
+        "Sasak",
+        "Lombok language",
+        "Sasak language"
+      ],
+      "native_names": [
+        "ᬪᬵᬲᬵᬲᬓ᭄ᬱᬓ᭄"
+      ]
+    },
+    "sgw": {
+      "english_names": [
+        "Sebat Bet Gurage",
+        "Sebat Bet Gurage language"
+      ],
+      "native_names": []
+    },
+    "seh": {
+      "english_names": [
+        "Chibarwe",
+        "Mabarwe",
+        "Manyika Chibarwe language"
+      ],
+      "native_names": []
+    },
+    "cgg": {
+      "english_names": [
+        "Kiga",
+        "Chiga",
+        "Kiga language"
+      ],
+      "native_names": []
+    },
+    "nup": {
+      "english_names": [
+        "Nupe",
+        "Nupe-Nupe-Tako",
+        "Nupe language"
+      ],
+      "native_names": []
+    },
+    "wal": {
+      "english_names": [
+        "Wolayttattuwa",
+        "Wolaita language",
+        "Wolaitta language",
+        "Wolaytta language"
+      ],
+      "native_names": []
+    },
+    "sgc": {
+      "english_names": [
+        "Kipsigis",
+        "Kipsigis language"
+      ],
+      "native_names": []
+    },
+    "alz": {
+      "english_names": [
+        "Alur",
+        "Alur dialect"
+      ],
+      "native_names": []
+    },
+    "hdy": {
+      "english_names": [
+        "Hadiyya",
+        "Hadiyya language"
+      ],
+      "native_names": []
+    },
+    "lgg": {
+      "english_names": [
+        "Lugbarati"
+      ],
+      "native_names": []
+    },
+    "noe": {
+      "english_names": [
+        "Nimadi",
+        "Nimadi language"
+      ],
+      "native_names": []
+    },
+    "myx": {
+      "english_names": [
+        "Masaba",
+        "Masaaba",
+        "Masaba language"
+      ],
+      "native_names": []
+    },
+    "ijs": {
+      "english_names": [
+        "Nembe",
+        "Southeast Ijo",
+        "Nembe language"
+      ],
+      "native_names": []
+    },
+    "nym": {
+      "english_names": [
+        "Nyamwezi",
+        "Nyamwezi language"
+      ],
+      "native_names": []
+    },
+    "lon": {
+      "english_names": [
+        "Malawi Lomwe",
+        "Malawi Lomwe language"
+      ],
+      "native_names": []
+    },
+    "men": {
+      "english_names": [
+        "Mende"
+      ],
+      "native_names": []
+    },
+    "fuh": {
+      "english_names": [
+        "Western Niger Fulfulde"
+      ],
+      "native_names": []
+    },
+    "gmv": {
+      "english_names": [
+        "Gamo"
+      ],
+      "native_names": []
+    },
+    "tsg": {
+      "english_names": [
+        "Tausug",
+        "Joloano language",
+        "Sūg language",
+        "Suluan labguage",
+        "Suluk language",
+        "tsg"
+      ],
+      "native_names": [
+        "Sinūg",
+        "bahasa Sūg"
+      ]
+    },
+    "bod": {
+      "english_names": [
+        "Tibetan",
+        "Tibetan language",
+        "Lhasa Tibetan",
+        "Standard Tibetan"
+      ],
+      "native_names": [
+        "བོད་ཡིག",
+        "བོད་སྐད"
+      ]
+    },
+    "bxk": {
+      "english_names": [
+        "Bukusu",
+        "Bukusu dialect",
+        "Lubukusu"
+      ],
+      "native_names": []
+    },
+    "bib": {
+      "english_names": [
+        "Bissa",
+        "Bisa",
+        "Bissa language",
+        "Bissagiella"
+      ],
+      "native_names": []
+    },
+    "gaa": {
+      "english_names": [
+        "Ga",
+        "gaa",
+        "Gã",
+        "Ga language",
+        "Gã language"
+      ],
+      "native_names": [
+        "Gã"
+      ]
+    },
+    "kac": {
+      "english_names": [
+        "Jingpo",
+        "Kachin",
+        "Chingp'o",
+        "Jinghpaw",
+        "Jingpho",
+        "Jingpho language",
+        "Jingpo language"
+      ],
+      "native_names": []
+    },
+    "chv": {
+      "english_names": [
+        "Chuvash",
+        "Çăvaşla",
+        "Chuvash language"
+      ],
+      "native_names": [
+        "Чăваш чĕлхи"
+      ]
+    },
+    "fan": {
+      "english_names": [
+        "Fang",
+        "Fang (Equatorial Guinea)",
+        "Fang language"
+      ],
+      "native_names": []
+    },
+    "kha": {
+      "english_names": [
+        "Khasi",
+        "kha",
+        "Khāsi",
+        "Khasi bhasa",
+        "Khasi bhasha",
+        "Khasi dialect",
+        "Khasi language",
+        "Khasi tongue",
+        "खासी",
+        "খাসি"
+      ],
+      "native_names": []
+    },
+    "mfe": {
+      "english_names": [
+        "Mauritian Creole",
+        "Mauritian",
+        "mfe"
+      ],
+      "native_names": []
+    },
+    "nyo": {
+      "english_names": [
+        "Nyoro",
+        "Nyoro language"
+      ],
+      "native_names": []
+    },
+    "tig": {
+      "english_names": [
+        "Tigre",
+        "Tigre language"
+      ],
+      "native_names": [
+        "ትግሬ"
+      ]
+    },
+    "gux": {
+      "english_names": [
+        "Gourmanchéma",
+        "Gourmanchema",
+        "Gourmanchema language",
+        "Gourmanchéma language"
+      ],
+      "native_names": []
+    },
+    "kbp": {
+      "english_names": [
+        "Kabiye",
+        "Kabye",
+        "Kabiyé",
+        "Cabrai",
+        "Cabrais",
+        "Kabiyè",
+        "Kabiye language",
+        "Kabɩyɛ",
+        "Kabyé",
+        "Kabyè",
+        "Kabye language"
+      ],
+      "native_names": [
+        "Kabɩyɛ"
+      ]
+    },
+    "vls": {
+      "english_names": [
+        "West Flemish",
+        "Western Flemish",
+        "vls",
+        "West Flemish Language",
+        "West-Vlaams",
+        "West-Vlams",
+        "West-Vloams"
+      ],
+      "native_names": [
+        "West-Vloams",
+        "West-Vlams",
+        "Vlaemsch"
+      ]
+    },
+    "kua": {
+      "english_names": [
+        "Kwanyama",
+        "Cuanhama",
+        "kj",
+        "Kwanyama dialect",
+        "Kwanyama Oshiwambo",
+        "Oshikwanyama"
+      ],
+      "native_names": [
+        "Oshiwambo",
+        "Oshikwanyama",
+        "Kwanyama"
+      ]
+    },
+    "sba": {
+      "english_names": [
+        "Ngambay",
+        "Sara",
+        "Gamba",
+        "Mbaye",
+        "Mbay",
+        "Gambaye",
+        "Gamblai",
+        "Mbai",
+        "Ngambai",
+        "Ngambay language",
+        "Sara Ngambai"
+      ],
+      "native_names": []
+    },
+    "nij": {
+      "english_names": [
+        "Ngaju",
+        "Dayak Ngaju"
+      ],
+      "native_names": [
+        "bahasa Dayak Ngaju"
+      ]
+    },
+    "nyf": {
+      "english_names": [
+        "Giryama",
+        "Giryama dialect",
+        "Giryama language"
+      ],
+      "native_names": []
+    },
+    "guw": {
+      "english_names": [
+        "Gun",
+        "Gu",
+        "Goun",
+        "Egun",
+        "Gun language",
+        "Gun-Alada",
+        "Gun-gbe",
+        "Gungbe",
+        "guw"
+      ],
+      "native_names": [
+        "Gungbe"
+      ]
+    },
+    "idu": {
+      "english_names": [
+        "Idoma",
+        "Idoma language"
+      ],
+      "native_names": []
+    },
+    "kbr": {
+      "english_names": [
+        "Kafa",
+        "Kafa language",
+        "Kaffa language",
+        "Kefa language"
+      ],
+      "native_names": []
+    },
+    "yaf": {
+      "english_names": [
+        "Yaka",
+        "Yaka language",
+        "Yaka-Pelende-Lonzo"
+      ],
+      "native_names": []
+    },
+    "ktb": {
+      "english_names": [
+        "Kambaata",
+        "Kambaata language"
+      ],
+      "native_names": []
+    },
+    "nga": {
+      "english_names": [
+        "Ngbaka Gbaya",
+        "Ngbaka",
+        "Ngbaka Gbaya language"
+      ],
+      "native_names": []
+    },
+    "its": {
+      "english_names": [
+        "Itsekiri",
+        "Isekiri",
+        "Itsekiri language"
+      ],
+      "native_names": []
+    },
+    "grt": {
+      "english_names": [
+        "Garo",
+        "Garo language",
+        "A·chikku"
+      ],
+      "native_names": []
+    },
+    "lus": {
+      "english_names": [
+        "Mizo",
+        "lus",
+        "Lushai",
+        "Mizo language"
+      ],
+      "native_names": [
+        "Mizo ṭawng",
+        "mizo"
+      ]
+    },
+    "urh": {
+      "english_names": [
+        "Urhobo",
+        "Urhobo language"
+      ],
+      "native_names": [
+        "Urhobo"
+      ]
+    },
+    "bak": {
+      "english_names": [
+        "Bashkir",
+        "Bashkir language",
+        "bashkort"
+      ],
+      "native_names": [
+        "башҡортса",
+        "башҡорт теле"
+      ]
+    },
+    "dag": {
+      "english_names": [
+        "Dagbanli",
+        "Dagbani",
+        "dagb",
+        "Dagbanli language"
+      ],
+      "native_names": [
+        "Dagbanli"
+      ]
+    },
+    "ven": {
+      "english_names": [
+        "Venda",
+        "ve",
+        "Venda language"
+      ],
+      "native_names": [
+        "Tshivenḓa",
+        "tshiVenḓa"
+      ]
+    },
+    "sop": {
+      "english_names": [
+        "Kisongye",
+        "Songe language"
+      ],
+      "native_names": []
+    },
+    "nnb": {
+      "english_names": [
+        "Nande",
+        "Nande language"
+      ],
+      "native_names": []
+    },
+    "nyy": {
+      "english_names": [
+        "Nyakyusa",
+        "Nyakyusa-Ngonde",
+        "IkyaNgonde",
+        "Kyangonde",
+        "Nyakyusa language"
+      ],
+      "native_names": []
+    },
+    "gog": {
+      "english_names": [
+        "Gogo",
+        "Gogo language"
+      ],
+      "native_names": []
+    },
+    "unr": {
+      "english_names": [
+        "Mundari",
+        "Munda",
+        "Kera",
+        "Naguri",
+        "unr",
+        "Hasada",
+        "Mundari-Kili",
+        "Tamaria"
+      ],
+      "native_names": []
+    },
+    "cce": {
+      "english_names": [
+        "Chopi",
+        "Chopi language"
+      ],
+      "native_names": []
+    },
+    "chw": {
+      "english_names": [
+        "Chuwabu",
+        "Chuabo",
+        "Chuwabo",
+        "Chuwabu language",
+        "Cuwabo",
+        "Etxuwabo"
+      ],
+      "native_names": []
+    },
+    "niq": {
+      "english_names": [
+        "Naandi",
+        "Nandi"
+      ],
+      "native_names": []
+    },
+    "ttj": {
+      "english_names": [
+        "Tooro",
+        "Rutoro",
+        "Rutooro language",
+        "Tooro language"
+      ],
+      "native_names": []
+    },
+    "bca": {
+      "english_names": [
+        "Central Bai",
+        "Central Bai dialect",
+        "Central Bai dialect group",
+        "Central Bai dialects",
+        "Central Bai language",
+        "Central Baic",
+        "Central Baic dialect",
+        "Central Baic dialect group",
+        "Central Baic dialects",
+        "Central Baic language"
+      ],
+      "native_names": []
+    },
+    "vun": {
+      "english_names": [
+        "Vunjo",
+        "Vunjo language"
+      ],
+      "native_names": []
+    },
+    "bba": {
+      "english_names": [
+        "Bariba",
+        "Baatonum",
+        "Bariba language"
+      ],
+      "native_names": []
+    },
+    "bom": {
+      "english_names": [
+        "Berom",
+        "Berom language"
+      ],
+      "native_names": []
+    },
+    "bum": {
+      "english_names": [
+        "Bulu",
+        "Bulu language"
+      ],
+      "native_names": []
+    },
+    "ajg": {
+      "english_names": [
+        "Adja",
+        "Aja",
+        "Aja language"
+      ],
+      "native_names": []
+    },
+    "ada": {
+      "english_names": [
+        "Dangme",
+        "Adangme",
+        "Adangme language",
+        "Dangme language"
+      ],
+      "native_names": []
+    },
+    "dga": {
+      "english_names": [
+        "Dagaare",
+        "Southern Dagaare",
+        "Dagara",
+        "Dagaare language",
+        "Kɔmpare Dagaare, Luor Dagaare, Sapare Dagaare Soga, Dagaare."
+      ],
+      "native_names": []
+    },
+    "heh": {
+      "english_names": [
+        "Hehe"
+      ],
+      "native_names": []
+    },
+    "nia": {
+      "english_names": [
+        "Nias",
+        "nia",
+        "Nias language"
+      ],
+      "native_names": [
+        "Li Niha"
+      ]
+    },
+    "tll": {
+      "english_names": [
+        "Tetela",
+        "Otetela",
+        "Tetela language"
+      ],
+      "native_names": []
+    },
+    "aoz": {
+      "english_names": [
+        "Uab Meto",
+        "Dawan",
+        "Dawan language",
+        "Uab Meto language"
+      ],
+      "native_names": [
+        "bahasa Uab Meto"
+      ]
+    },
+    "eke": {
+      "english_names": [
+        "Ekid",
+        "Iquo Ekid"
+      ],
+      "native_names": []
+    },
+    "mev": {
+      "english_names": [
+        "Mano",
+        "Mano language"
+      ],
+      "native_names": []
+    },
+    "klu": {
+      "english_names": [
+        "Klao",
+        "Klao language"
+      ],
+      "native_names": []
+    },
+    "btg": {
+      "english_names": [
+        "Gagnoa Bété",
+        "Bete language",
+        "Bete Gagnoa",
+        "Bete Gagnoa language",
+        "Bété of Gagnoa",
+        "Gagnoa Bété dialect",
+        "Gagnoa Bété language"
+      ],
+      "native_names": []
+    },
+    "gwr": {
+      "english_names": [
+        "Gwere",
+        "Gwere language"
+      ],
+      "native_names": []
+    },
+    "kuj": {
+      "english_names": [
+        "Kuria",
+        "Kuria language"
+      ],
+      "native_names": []
+    },
+    "leb": {
+      "english_names": [
+        "Lala-Bisa",
+        "Lala-Bisa language"
+      ],
+      "native_names": []
+    },
+    "toh": {
+      "english_names": [
+        "Tonga",
+        "Gitonga",
+        "Tonga language",
+        "Gitonga language",
+        "Xitonga"
+      ],
+      "native_names": []
+    },
+    "yom": {
+      "english_names": [
+        "Kiyombe",
+        "Yombe"
+      ],
+      "native_names": []
+    },
+    "kss": {
+      "english_names": [
+        "Southern Kissi",
+        "Southern Kisi"
+      ],
+      "native_names": []
+    },
+    "gxx": {
+      "english_names": [
+        "Southern Wee",
+        "Southern Wee dialect",
+        "Wè Southern"
+      ],
+      "native_names": []
+    },
+    "enq": {
+      "english_names": [
+        "Enga"
+      ],
+      "native_names": []
+    },
+    "xpe": {
+      "english_names": [
+        "Liberia Kpelle"
+      ],
+      "native_names": []
+    },
+    "lia": {
+      "english_names": [
+        "West-Central Limba"
+      ],
+      "native_names": []
+    },
+    "ady": {
+      "english_names": [
+        "Adyghe",
+        "Adighe",
+        "Adygei",
+        "Adyghe language",
+        "West Circassian"
+      ],
+      "native_names": [
+        "Кӏах Адыгабзэ",
+        "Адыгабзэ"
+      ]
+    },
+    "dzo": {
+      "english_names": [
+        "Dzongkha",
+        "Dzongkha language",
+        "Ngalopkha language"
+      ],
+      "native_names": [
+        "རྫོང་ཁ་"
+      ]
+    },
+    "sgd": {
+      "english_names": [
+        "Surigaonon",
+        "Surigaonon language"
+      ],
+      "native_names": []
+    },
+    "sah": {
+      "english_names": [
+        "Yakut",
+        "Sakha",
+        "Saxa",
+        "Yakutian",
+        "Saqa",
+        "Yakut language"
+      ],
+      "native_names": [
+        "Саха тыла",
+        "саха тыла",
+        "сахалыы"
+      ]
+    },
+    "bas": {
+      "english_names": [
+        "Basaa",
+        "Basa (Cameroon)",
+        "Basaa language"
+      ],
+      "native_names": []
+    },
+    "cbk": {
+      "english_names": [
+        "Chavacano",
+        "Chabacano",
+        "Chabacano language",
+        "Chavacano language",
+        "Zamboangueño language",
+        "Zamboangueño"
+      ],
+      "native_names": [
+        "Chavacano",
+        "Chabacano"
+      ]
+    },
+    "gej": {
+      "english_names": [
+        "Gen",
+        "Gen language"
+      ],
+      "native_names": []
+    },
+    "lun": {
+      "english_names": [
+        "Lunda",
+        "Lunda language"
+      ],
+      "native_names": []
+    },
+    "akl": {
+      "english_names": [
+        "Aklanon",
+        "Malaynon",
+        "Aklan",
+        "Malaynon language",
+        "Aklanon languages",
+        "Akeanon",
+        "Aklan language",
+        "Aklan languages",
+        "Aklanon language",
+        "Inakeanon"
+      ],
+      "native_names": []
+    },
+    "fry": {
+      "english_names": [
+        "West Frisian",
+        "Frisian",
+        "Frysk",
+        "West Frisian language",
+        "West Lauwers Frisian",
+        "West-Frysk",
+        "Westerlauwers Fries",
+        "Westerlauwersk Frysk",
+        "Western Frisian"
+      ],
+      "native_names": [
+        "West-Frysk",
+        "Frysk"
+      ]
+    },
+    "ati": {
+      "english_names": [
+        "Attié",
+        "Attie",
+        "Attie language",
+        "Attié language"
+      ],
+      "native_names": []
+    },
+    "bsq": {
+      "english_names": [
+        "Bassa",
+        "Bassa language"
+      ],
+      "native_names": []
+    },
+    "goa": {
+      "english_names": [
+        "Guro",
+        "Lo",
+        "Kweni",
+        "Gouro",
+        "Guro language",
+        "Kwendre",
+        "Kwéndré"
+      ],
+      "native_names": []
+    },
+    "grb": {
+      "english_names": [
+        "Grebo",
+        "Grebo language"
+      ],
+      "native_names": []
+    },
+    "ish": {
+      "english_names": [
+        "Esan",
+        "Esan language"
+      ],
+      "native_names": []
+    },
+    "ebu": {
+      "english_names": [
+        "Embu",
+        "Embu language",
+        "Kiembu"
+      ],
+      "native_names": []
+    },
+    "gur": {
+      "english_names": [
+        "Farefare",
+        "Gurene",
+        "Frafra",
+        "Frafra language"
+      ],
+      "native_names": []
+    },
+    "loz": {
+      "english_names": [
+        "Lozi",
+        "loz",
+        "Lozi language"
+      ],
+      "native_names": []
+    },
+    "krj": {
+      "english_names": [
+        "Karay-a",
+        "Hiraya",
+        "Harayan language",
+        "Karay-a language",
+        "Kinaray-a",
+        "Kinaray·a",
+        "krj"
+      ],
+      "native_names": [
+        "Kinaray·a"
+      ]
+    },
+    "msb": {
+      "english_names": [
+        "Masbateño",
+        "Masbateño language",
+        "Masbatenyo"
+      ],
+      "native_names": []
+    },
+    "sag": {
+      "english_names": [
+        "Sango",
+        "sag",
+        "sg",
+        "Sangho",
+        "Sango language"
+      ],
+      "native_names": [
+        "Sängö",
+        "Sango"
+      ]
+    },
+    "srn": {
+      "english_names": [
+        "Sranan Tongo",
+        "Surinamese",
+        "Sranan",
+        "srn",
+        "Sranantongo",
+        "Surinaams",
+        "Surinamese Creole",
+        "Surinamese tongue",
+        "Taki Taki"
+      ],
+      "native_names": [
+        "Sranantongo"
+      ]
+    },
+    "led": {
+      "english_names": [
+        "Lendu",
+        "Baledha",
+        "Kilendu"
+      ],
+      "native_names": []
+    },
+    "fip": {
+      "english_names": [
+        "Fipa",
+        "Fipa language"
+      ],
+      "native_names": []
+    },
+    "ikw": {
+      "english_names": [
+        "Ikwerre",
+        "Ikwere",
+        "Ikwerre language"
+      ],
+      "native_names": []
+    },
+    "iso": {
+      "english_names": [
+        "Isoko",
+        "Isoko language"
+      ],
+      "native_names": []
+    },
+    "ijn": {
+      "english_names": [
+        "Kalabari",
+        "Kalabari language"
+      ],
+      "native_names": []
+    },
+    "kri": {
+      "english_names": [
+        "Krio",
+        "kri",
+        "Krio language",
+        "Sierra Leonean Creole"
+      ],
+      "native_names": [
+        "Krio"
+      ]
+    },
+    "lom": {
+      "english_names": [
+        "Loma",
+        "Loma (Liberia)",
+        "Loma language"
+      ],
+      "native_names": []
+    },
+    "nzi": {
+      "english_names": [
+        "Nzema",
+        "Tana language",
+        "Appolo",
+        "Nzima",
+        "Appolo language",
+        "Nsima language",
+        "Nzema language",
+        "Nzima language"
+      ],
+      "native_names": []
+    },
+    "ukw": {
+      "english_names": [
+        "Ukwuani-Ndoni",
+        "Ukwuani-Ndoni language"
+      ],
+      "native_names": []
+    },
+    "khb": {
+      "english_names": [
+        "Tai Lü",
+        "Tai Lue",
+        "Lü",
+        "Xishuangbanna Dai",
+        "Dai Lue",
+        "Tai Lü language"
+      ],
+      "native_names": []
+    },
+    "kdj": {
+      "english_names": [
+        "Karamojong",
+        "Karamojong language"
+      ],
+      "native_names": []
+    },
+    "kue": {
+      "english_names": [
+        "Kuman",
+        "Chimbu language",
+        "Kuman language",
+        "Kuman New Guinea language",
+        "Simbu language"
+      ],
+      "native_names": []
+    },
+    "mgr": {
+      "english_names": [
+        "Mambwe-Lungu",
+        "Mambwe-Lungu language"
+      ],
+      "native_names": []
+    },
+    "bkm": {
+      "english_names": [
+        "Kom",
+        "Kom language",
+        "Bamekon language",
+        "Bikom language",
+        "bkm",
+        "Ekom language",
+        "Etang language",
+        "Kom (Cameroon)",
+        "Nkom language"
+      ],
+      "native_names": []
+    },
+    "ibg": {
+      "english_names": [
+        "Ibanag",
+        "Ibanag language",
+        "Ibanak",
+        "Ybanag"
+      ],
+      "native_names": []
+    },
+    "bjs": {
+      "english_names": [
+        "Bajan Creole",
+        "Bajan"
+      ],
+      "native_names": []
+    },
+    "mrq": {
+      "english_names": [
+        "North Marquesan",
+        "mrq",
+        "North Marquesan language"
+      ],
+      "native_names": [
+        "èo ènana"
+      ]
+    },
+    "cnh": {
+      "english_names": [
+        "Hakha–Chin",
+        "Haka Chin",
+        "Hakha Chin language",
+        "Hakha-Chin",
+        "Hakha-Chin language"
+      ],
+      "native_names": []
+    },
+    "sur": {
+      "english_names": [
+        "Mwaghavul",
+        "Mwaghavul language"
+      ],
+      "native_names": []
+    },
+    "yun": {
+      "english_names": [
+        "Bena",
+        "Bena (Nigeria)",
+        "Bena language",
+        "Bena language (Adamawa)"
+      ],
+      "native_names": []
+    },
+    "lok": {
+      "english_names": [
+        "Loko",
+        "Loko language"
+      ],
+      "native_names": []
+    },
+    "tbw": {
+      "english_names": [
+        "Aborlan Tagbanwa",
+        "Tagbanwa",
+        "Aborlan Tagbanwa language"
+      ],
+      "native_names": []
+    },
+    "kdn": {
+      "english_names": [
+        "Kunda",
+        "Kunda language"
+      ],
+      "native_names": []
+    },
+    "kdi": {
+      "english_names": [
+        "Kumam dialect"
+      ],
+      "native_names": []
+    },
+    "vai": {
+      "english_names": [
+        "Vai",
+        "Gallinas",
+        "Vai language",
+        "Liberian",
+        "Vy"
+      ],
+      "native_names": [
+        "ꕙꔤ"
+      ]
+    },
+    "njm": {
+      "english_names": [
+        "Angami",
+        "Angami Naga",
+        "Angami language"
+      ],
+      "native_names": []
+    },
+    "abk": {
+      "english_names": [
+        "Abkhaz",
+        "Abkhazian",
+        "Abkhaz language",
+        "Abkhazian language",
+        "Abxaz",
+        "Abxaz language",
+        "apsshwa",
+        "Apsua byzshwa",
+        "Аԥсуа бызшәа",
+        "аԥсшәа"
+      ],
+      "native_names": [
+        "Аԥсшәа",
+        "Аԥсуа бызшәа"
+      ]
+    },
+    "gle": {
+      "english_names": [
+        "Irish",
+        "Gaelic",
+        "Irish language",
+        "Gaeilge",
+        "Irish Gaelic"
+      ],
+      "native_names": [
+        "Gaeilge",
+        "An Ghaeilge"
+      ]
+    },
+    "arn": {
+      "english_names": [
+        "Mapudungun",
+        "Araucanian",
+        "arn",
+        "Chedungun",
+        "Chilidugu",
+        "Chilidúgu",
+        "Chilidungu",
+        "Chilidungún",
+        "General language of Chile",
+        "General language of the Kingdom of Chile",
+        "Mapuche language",
+        "Mapudungu",
+        "Mapuzugun",
+        "Mapuche",
+        "Pewenche"
+      ],
+      "native_names": [
+        "mapudungun"
+      ]
+    },
+    "zun": {
+      "english_names": [
+        "Zuni",
+        "Shiwi'ma",
+        "Zuñi",
+        "Zuni language"
+      ],
+      "native_names": [
+        "Shiwi’ma"
+      ]
+    },
+    "nau": {
+      "english_names": [
+        "Nauruan",
+        "Nauru",
+        "na",
+        "Naouru language",
+        "Nauruan language"
+      ],
+      "native_names": [
+        "Dorerin Naoero",
+        "dorerin Naoero"
+      ]
+    },
+    "myv": {
+      "english_names": [
+        "Erzya",
+        "Erzya language",
+        "Erzya-Mordvin",
+        "Erzyan language"
+      ],
+      "native_names": [
+        "Эрзянь кель"
+      ]
+    },
+    "dua": {
+      "english_names": [
+        "Duala",
+        "Diwala language",
+        "Douala language",
+        "dua",
+        "Duala language",
+        "Dualla language",
+        "Dwala language",
+        "Dwela language"
+      ],
+      "native_names": []
+    },
+    "cyo": {
+      "english_names": [
+        "Cuyonon",
+        "Cuyonon language"
+      ],
+      "native_names": [
+        "Koyonon"
+      ]
+    },
+    "bfq": {
+      "english_names": [
+        "Badaga",
+        "Badaga language",
+        "bfq"
+      ],
+      "native_names": [
+        "ಬಡಗ",
+        "படக பாஷை"
+      ]
+    },
+    "jac": {
+      "english_names": [
+        "Jakaltek",
+        "Jakaltek language",
+        "Jakalteko",
+        "Popti'"
+      ],
+      "native_names": []
+    },
+    "kqn": {
+      "english_names": [
+        "Kaonde",
+        "Kaonde language"
+      ],
+      "native_names": []
+    },
+    "lam": {
+      "english_names": [
+        "Lamba",
+        "Lamba language"
+      ],
+      "native_names": []
+    },
+    "poh": {
+      "english_names": [
+        "Poqomchi'",
+        "Pokomchi language",
+        "Pokomchí language",
+        "Poqomchi' language"
+      ],
+      "native_names": []
+    },
+    "pif": {
+      "english_names": [
+        "Pingelapese",
+        "Pingelapese language"
+      ],
+      "native_names": [
+        "lokaehiah Pingelap"
+      ]
+    },
+    "cri": {
+      "english_names": [
+        "Forro Creole",
+        "Santome",
+        "Forro",
+        "Crioulo santomense",
+        "Forro language",
+        "Sãotomense"
+      ],
+      "native_names": []
+    },
+    "rap": {
+      "english_names": [
+        "Rapa Nui",
+        "rap",
+        "Pascuan",
+        "Pascuense",
+        "Rapa Nui language",
+        "Rapanui",
+        "Rapanui language"
+      ],
+      "native_names": []
+    },
+    "acr": {
+      "english_names": [
+        "Achi",
+        "Achi’"
+      ],
+      "native_names": []
+    },
+    "aba": {
+      "english_names": [
+        "Abé",
+        "Abbay (Ivory Coast)",
+        "Abbey (Ivory Coast)",
+        "Abè (Ivory Coast)"
+      ],
+      "native_names": []
+    },
+    "knj": {
+      "english_names": [
+        "Akateko",
+        "Akateko language",
+        "Western Kanjobal"
+      ],
+      "native_names": []
+    },
+    "agu": {
+      "english_names": [
+        "Awakatek",
+        "Aguacateco",
+        "Awakatek language"
+      ],
+      "native_names": [
+        "Qa'yol"
+      ]
+    },
+    "cac": {
+      "english_names": [
+        "Chuj",
+        "Chuj language"
+      ],
+      "native_names": [
+        "Koti'"
+      ]
+    },
+    "etu": {
+      "english_names": [
+        "Ekoi",
+        "Ejagham",
+        "Ejagham language",
+        "Ekoi language",
+        "Jagham language"
+      ],
+      "native_names": []
+    },
+    "kno": {
+      "english_names": [
+        "Kono",
+        "Kono (Sierra Leone)",
+        "Kono language"
+      ],
+      "native_names": []
+    },
+    "kpg": {
+      "english_names": [
+        "Kapingamarangi",
+        "Kapingamarangi language"
+      ],
+      "native_names": [
+        "leelee Kilinid"
+      ]
+    },
+    "ksd": {
+      "english_names": [
+        "Tolai",
+        "ksd",
+        "Kuanua",
+        "Tinata Tuna",
+        "Tolai language"
+      ],
+      "native_names": []
+    },
+    "mdp": {
+      "english_names": [
+        "Mbala",
+        "Gimbala",
+        "Mbala language"
+      ],
+      "native_names": []
+    },
+    "tqo": {
+      "english_names": [
+        "Toaripi",
+        "Toaripi language"
+      ],
+      "native_names": []
+    },
+    "yog": {
+      "english_names": [
+        "Yogad",
+        "Yogad language"
+      ],
+      "native_names": []
+    },
+    "stj": {
+      "english_names": [
+        "Kisamo-Matya",
+        "Samo-Matya"
+      ],
+      "native_names": []
+    },
+    "kjd": {
+      "english_names": [
+        "Southern Kiwai",
+        "South Kiwai"
+      ],
+      "native_names": []
+    },
+    "khz": {
+      "english_names": [
+        "Keapara",
+        "Keapara language"
+      ],
+      "native_names": []
+    },
+    "bpd": {
+      "english_names": [
+        "Banda-Banda"
+      ],
+      "native_names": []
+    },
+    "plw": {
+      "english_names": [
+        "Brooke's Point Palawano"
+      ],
+      "native_names": []
+    },
+    "gud": {
+      "english_names": [
+        "Yocoboué Dida"
+      ],
+      "native_names": []
+    },
+    "nzu": {
+      "english_names": [
+        "Teke-Nzikou"
+      ],
+      "native_names": []
+    },
+    "shh": {
+      "english_names": [
+        "Shoshoni",
+        "Shoshoni language"
+      ],
+      "native_names": []
+    },
+    "pan": {
+      "english_names": [
+        "Punjabi",
+        "Panjabi"
+      ],
+      "native_names": [
+        "ਪੰਜਾਬੀ",
+        "پنجابی"
+      ]
+    }
+  }
+}
