@@ -6,7 +6,7 @@ from huggingface_hub import hf_hub_download
 import json
 
 
-with open("./language_dictionary.json", 'r') as f:
+with open("language_dictionary.json", 'r') as f:
     LANGUAGE_DATA = json.load(f)
 
 
