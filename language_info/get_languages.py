@@ -4,9 +4,11 @@ import re
 import unicodedata
 from huggingface_hub import hf_hub_download
 import json
+from pathlib import Path
 
 
-with open("language_dictionary.json", 'r') as f:
+json_path = Path(__file__).parent / "list_of_languages.json"
+with open(json_path, 'r') as f:
     LANGUAGE_DATA = json.load(f)
 
 

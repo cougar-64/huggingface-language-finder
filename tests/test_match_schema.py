@@ -31,7 +31,7 @@ FAKE_LANGUAGE_DATA = {
 def test_build_lookup_includes_iso_codes():
     lookup = build_lookup(FAKE_LANGUAGE_DATA)
     assert "bam" in lookup
-    assert lookup["bam"] == ("bam", "tier one")
+    assert lookup["bam"] == ("bam", "tier_one")
 
 
 
@@ -45,7 +45,7 @@ def test_build_lookup_includes_english_names_normalized():
 def test_build_lookup_includes_accents_stripped():
     lookup = build_lookup(FAKE_LANGUAGE_DATA)
     # Lëtzebeurgesch should be findable even without the accent
-    assert "letzebeurgesch" in lookup
+    assert "letzebuergesch" in lookup
 
 
 
