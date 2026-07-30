@@ -144,21 +144,14 @@ def test_feature_schema_handles_none_features(mock_load_builder):
 
 
 
-#----------------KNOWN GAP: script/region-suffixed config names----------------
-# FLORES-200 style datasets use configs like "eng_Latn", "bam_Latn" (language + script_code).
-# Our lookup only has bare 3-character iso codes like "eng", "bam", etc. -- these will currently NOT match.
-    # Potential fixes: add a check in `lookup` that finds an `_` and splits and takes [0] as the iso code
-# This test documents that gap rather than hiding it, so it doesn't get "fixed" silently
-# by a future refactor without anyone noticing the behavior changed.
-
 @patch("match_schema.get_dataset_config_names")
 def test_config_names_does_not_match_script_suffixed_codes_yet(mock_get_configs):
     mock_get_configs.return_value = ["eng_Latn", "bam_Latn"]
     lookup = build_lookup(FAKE_LANGUAGE_DATA)
     matches = check_config_names("fake/repo", lookup)
 
-    # AS STATED ABOVE, THIS TEST IS EXPECT TO FAIL. It is documenting CURRENT behavior, not desired outcome
-    assert matches == {}
+    assert "eng" in matches
+    assert "bam" in matches
 
 
 

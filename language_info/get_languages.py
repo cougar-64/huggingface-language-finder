@@ -18,6 +18,8 @@ TIER_THREE = LANGUAGE_DATA["tier_three"]
 
 
 def normalize(text: str) -> str:
+    if '_' in text:
+        text = text.split('_')[0]
     text = unicodedata.normalize("NFD", text) # normalizes accents (é becomes e and ñ becomes n, etc.)
     text = "".join(c for c in text if unicodedata.category(c) != "Mn") # Strip accents
     return text.lower()
